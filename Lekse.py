@@ -1,1 +1,2 @@
-Lekse fil
+def subtract(x, y):
+    return x - y
